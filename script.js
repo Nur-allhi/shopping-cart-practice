@@ -40,6 +40,7 @@ function getInputvalue(product) {
   const productCount = parseInt(productInput.value);
   return productCount;
 }
+
 // document
 //   .getElementById("phone-increase")
 //   .addEventListener("click", function () {
